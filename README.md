@@ -1,7 +1,7 @@
 # Welcome to My Profile! 👋
 
 **Telegram;** [@tioxxs](https://t.me/tioxxs)
-**My Blog Channel;** [@TioxBlog]*(https://t.me/tioxblog)
+**My Blog Channel;** [@TioxBlog](https://t.me/tioxblog)
 
 *Hello I am 17 years old high school student my goal is to develop code for **Arduino via c and c++**.*
 
