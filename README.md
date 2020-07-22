@@ -13,8 +13,8 @@ with the dream of gaining a computer for the 8th grade 2018 year-old **maxeX mak
 
 Question | Answer
 --- | --- 
-My Computer  | Telephone/Redmi 7
-Editor  | Notepad++/pydroid3/aCode
-Platforms I writing | Desktop
-Languages I know  | C/C++/HTML/CSS
-Languages I trying to learn | Java/Python/php
+My Computer  | `Telephone/Redmi 7`
+Editor  | `Notepad++/pydroid3/aCode`
+Platforms I writing | `Desktop`
+Languages I know  | `C/C++/HTML/CSS`
+Languages I trying to learn | `Java/Python/php`
