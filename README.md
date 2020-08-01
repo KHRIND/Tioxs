@@ -9,7 +9,7 @@
 
 
 *I started the software 
-with the dream of gaining a computer for the 8th grade 2018  contest. I first learned about the **c / c ++ arduino libraries** and then worked on **html and css** Now I'm trying to learn **java**.*
+with the  8th grade 2018  contest. I first learned about the **c / c ++ arduino libraries** and then worked on **html and css** Now I'm trying to learn **java**.*
 
 
 
