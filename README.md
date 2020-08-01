@@ -8,8 +8,7 @@
 *Hello I am 17 years old high school student my goal is to develop code for **Arduino via c and c++**.*
 
 
-*I started the software 
-with the  8th grade 2018  contest. I first learned about the **c / c ++ arduino libraries** and then worked on **html and css** Now I'm trying to learn **java**.*
+*I started the software in 2018, I first wondered about Arduino, I learned basic ** c / c ++ **, then I learned the arduino libraries, now I am trying to learn ** java and php **.*
 
 
 
