@@ -18,4 +18,4 @@ My Computer  | `Telephone/Redmi 7`
 Editor  | `Notepad++/pydroid3/aCode`
 Platforms I writing | `Desktop`
 Languages I know  | `C/C++/HTML/CSS`
-Languages I trying to learn | `Java/Python/php`
+Languages I trying to learn | `JavaScript/Python/php`
