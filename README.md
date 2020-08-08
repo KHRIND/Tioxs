@@ -5,10 +5,10 @@
 
 **my website;** [tioxusta.cf](http://tioxusta.cf)
 
-*Hello I am 17 years old high school student my goal is to develop code for **Arduino via c and c++**.*
+*Hello, I am 17 years old high school student, working on embedded system and arduino, also trying to do something in css and html. **.*
 
 
-*I started the software in 2018, I first wondered about Arduino, I learned basic **c / c ++**, then I learned the arduino libraries, now I am trying to learn **java and php**.*
+* My aim to start the software was to set up my own automation systems.I started in 2018 for the first time.I have been working on these for 3 years.I know enough c / c ++ myself and  My aim to start the software was to establish my own automation systems.I started in 2018.I have been working on these for 3 years.I have been working on these for 3 years. At the same time, I'm trying to learn JavaScript.*
 
 
 
