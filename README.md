@@ -20,4 +20,4 @@ Platforms I writing | `Desktop`
 Languages I know  | `C/C++/HTML/CSS`
 Languages I trying to learn | `JavaScript/Python/php`
 
-[Görünüm? uid = l7j67cufcf0x53xe0ak3tg84x & yönlendirme = true)
+
