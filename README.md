@@ -1,9 +1,8 @@
 # ME
 ![Profile views](https://gpvc.arturio.dev/Tioxs)
-
+**Contact**
 [Telegraf](https://t.me/tioxxs)
-
-[WebsiteA](http://TioxsUsta.cf)
+[Website](http://TioxsUsta.cf)
 
 **If you want to follow from Spotify;** [Spotify'ım](https://open.spotify.com/user/l7j67cufcf0x53xe0ak3tg84x?si=YBcMCz9KS-CDyPTnZV-7Qg
 )
