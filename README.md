@@ -1,5 +1,5 @@
 # ME
-![Profile views](https://gpvc.arturio.dev/Tioxs)
+![Profile views](https://gpvc.arturio.dev/Tioxs) ![https://t.me/Tioxxs](https://img.shields.io/badge/telegram-Tioxxs-purple)
 
 **Contact**
 [•|*Telegram address*](http://t.me/tioxxs)
