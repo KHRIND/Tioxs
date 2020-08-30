@@ -17,8 +17,8 @@
 
 Question | Answer
 --- | --- 
-My Computer  | `Telephone/Redmi 7`
-Editor  | `Notepad++/pydroid3/aCode`
+My Computer  | `hp 15`
+Editor  | `Notepad++/Arduino IDE`
 Platforms I writing | `Desktop`
 Languages I know  | `C/C++/HTML/CSS`
 Languages I trying to learn | `JavaScript/Python/php`
