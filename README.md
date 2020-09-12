@@ -3,7 +3,7 @@
 
 **Contact**
 [•|*Telegram address*](http://t.me/tioxxs)
-[•|*Website*](http://tioxusta.cf)
+[•|*Website*](http://tioxusta.com)
 
 **If you want to follow from Spotify;** [Spotify'ım](https://open.spotify.com/user/l7j67cufcf0x53xe0ak3tg84x?si=YBcMCz9KS-CDyPTnZV-7Qg
 )
