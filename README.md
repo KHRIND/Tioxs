@@ -13,5 +13,5 @@ Question | Answer
 My Computer  | `hp 15`
 Editor  | `Notepad++/Arduino IDE`
 Platforms I writing | `Desktop`
-Languages I know  | `C/C++/HTML/CSS (dil olmadığını biliyorum pekte kasmaya gerek yok`
+Languages I know  | `C/C++`
 Languages I trying to learn | `JavaScript/Python/php`
