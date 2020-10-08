@@ -11,7 +11,7 @@
 Question | Answer
 --- | --- 
 My Computer  | `hp 15`
-Editor  | `Notepad++/Arduino IDE`
+Editor  | `Notepad++/Arduino IDE/Visual Studio Code`
 Platforms I writing | `Desktop`
 Languages I know  | `C/C++`
 Languages I trying to learn | `JavaScript/Python/php`
